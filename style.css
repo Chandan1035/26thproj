@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+#app {
+    width: 500px;
+    margin: 0 auto;
+}
+
+#signup {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#profile {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+#username {
+    width: 200px;
+}
+
+#password {
+    width: 200px;
+}
+
+#signup-btn {
+    width: 100px;
+    margin-top: 10px;
+}
+
+#logout-btn {
+    width: 100px;
+    margin-top: 10px;
+}
